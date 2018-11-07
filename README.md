@@ -9,11 +9,13 @@ Requires:
 
 ---
 
-**Summary**
+<h1>**Summary**</h1>
 
 This project is intended to compare and contrast the words found in a database of 85,000 tweets from US congresspeople separated into two categories based on their political party - Democrat or Republican.
 
 ---
+
+<h1>**First Inquiry**</h1>
 
 The first question I wanted to answer regarding the information I found was:  "How often does each party mention the other in this collection of tweets?"  I achieved this goal by parsing the text of all of the tweets from each party in search of different keywords intended to represent an occurance where the opposing party is mentioned.
 
