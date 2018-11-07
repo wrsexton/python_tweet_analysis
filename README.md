@@ -15,17 +15,17 @@ The first question I wanted to answer regarding the information I found was:  "H
 I used regular expressions to search for the following character sets
 
 *Democrat*:
-    - words beginning with 'repub' (the word 'republic' is filtered out)
-    - 'gop'
-    - 'conservative'
-    - words beginning with 'right' and ending with 'wing'
+  - words beginning with 'repub' (the word 'republic' is filtered out)
+  - 'gop'
+  - 'conservative'
+  - words beginning with 'right' and ending with 'wing'
     
 *Republican*:
-    - words beginning with 'dem' (the words 'demarest' and 'democracy' are filtered out)
-    - 'dnc'
-    - 'liberal'
-    - 'libs'
-    - words beginning with 'left' and ending with 'wing'
+  - words beginning with 'dem' (the words 'demarest' and 'democracy' are filtered out)
+  - 'dnc'
+  - 'liberal'
+  - 'libs'
+  - words beginning with 'left' and ending with 'wing'
 
 *Notes regarding the results of this first inquiry*:
 
