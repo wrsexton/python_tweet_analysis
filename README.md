@@ -6,6 +6,7 @@ Uses Python 3
 Requires:
   - sqlite3
   - matplotlib
+  - matplotlib-venn
 
 ---
 
