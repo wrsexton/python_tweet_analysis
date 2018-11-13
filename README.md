@@ -4,9 +4,9 @@ Analyzing tweets from republican and democrat representatives - obtained from a 
 Uses Python 3
 
 Requires:
-  - sqlite3
-  - matplotlib
-  - matplotlib-venn
+  - sqlite3 (version 2.6.0)
+  - matplotlib (version 3.0.1)
+  - matplotlib-venn (version 0.11.5)
 
 ---
 
