@@ -33,6 +33,8 @@ I used regular expressions to search for the following character sets
   - 'liberal'
   - 'libs'
   - Words beginning with 'left' and ending with 'wing'
+  
+The visualization for this inquiry is a bar graph comparing instances of these words found for each party.
 
 **Notes regarding the results of this first inquiry**:
 
@@ -41,6 +43,8 @@ The results of this first inquiry may not represent a true pattern in either par
 <h1>Second Inquiry</h1>
 
 The second question I wanted to answer regarding the information I found was:  "What are the most common words in each party's tweets, and how many words are shared between the parties?"  I achieved this goal by gathering the text from each and every tweet, splitting the strings into individual words based on spacing, filtering out common stop-words, and counting instances of each word used.
+
+The visualization for this inquiry is two bar graphs comparing instances of these words found for each party, as well as a venn diagram to show the words found in common.
 
 **Notes regarding the results of this second inquiry**
 
