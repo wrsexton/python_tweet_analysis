@@ -1,7 +1,7 @@
 # python_tweet_analysis
 Analyzing tweets from republican and democrat representatives - obtained from a kaggle database.
 
-Uses Python 3
+Uses Python 3.7
 
 Requires:
   - sqlite3 (version 2.6.0)
